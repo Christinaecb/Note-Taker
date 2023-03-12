@@ -3,6 +3,7 @@ const apiRoutes = require('./routes/apiRoutes');
 
 const express = require('express');
 
+//Initialize the app and create a port
 const PORT = process.env.PORT || 3001;
 const app = express();
 
