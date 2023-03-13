@@ -27,7 +27,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 This application is a note taking application utilizing Express.js as the back end and will save and retrieve the note data from a JSON file.
 
 ## Screenshot
-[Note Taker](./assets/pictures/Screenshot%20.png)
+[Screenshot](./assets/pictures/Screenshot%20.png)
 
 ## Table of Contents:
 
