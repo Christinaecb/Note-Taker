@@ -53,7 +53,7 @@ This project is licensed under the MIT license. Click [here](https://opensource.
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Email:
-If you have any questions please email me at christina.e.c.barberi@gmail.com
+If you have any questions please email me at christina.e.c.barberi@gmail.com.
 
 ## Github:
 Please visit my [GitHub](https://github.com/Christinaecb) to view my other work.
